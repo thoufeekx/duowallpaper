@@ -1,0 +1,15 @@
+# DuoWallpaper
+
+> DuoWallpaper is a free wallpaper app for iPhone Duo that saves matched cover and inner screen sets at exact pixel sizes, with no ads and no data collected.
+
+- App Store name: DuoWallpaper: Foldable Walls
+- Price: free. No ads, no account, no in-app purchases, no data collected.
+- 250 original wallpapers in 22 collections.
+- Sizes (Apple spec): cover 1398 x 2034; inner 1878 x 2670, exported wide 2670 x 1878 or upright 1878 x 2670.
+- Download: https://apps.apple.com/app/id6826296293
+
+## Pages
+- [What size is an iPhone Duo wallpaper?](https://thoufeekx.github.io/duowallpaper/iphone-duo-wallpaper-size.html)
+- [How to set a wallpaper on iPhone Duo](https://thoufeekx.github.io/duowallpaper/how-to-set-iphone-duo-wallpaper.html)
+- [Best free wallpaper app for iPhone Duo](https://thoufeekx.github.io/duowallpaper/best-free-wallpaper-app-iphone-duo.html)
+- [Privacy](https://thoufeekx.github.io/duowallpaper/privacy.html)
